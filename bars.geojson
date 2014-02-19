@@ -1,26 +1,12 @@
 { "type": "FeatureCollection",
-    "features": [
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [148.8791351, 2.3648935]
-        },
-        "properties": {
-          "name": "L'École Buissonière"
-          "OpenWifi": "Yes"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [48.8530308, 2.3627212]
-        },
-        "properties": {
-          "name": "Fabelier"
-          "OpenWifi": "No"
-        }
-      }
-       ]
+"features": [
+  { "type": "Feature",
+    "geometry": {"type": "Point", "coordinates": [148.8791351, 2.3648935]},
+    "properties": {"name": "L'École Buissonière", "OpenWifi": "Yes"}
+    },
+{ "type": "Feature",
+  "geometry": {"type": "Point", "coordinates": [48.8530308, 2.3627212]},
+  "properties": {"name": "Fabelier", "OpenWifi": "No"}
+  }
+   ]
  }
