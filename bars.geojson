@@ -1,7 +1,7 @@
 { "type": "FeatureCollection",
 "features": [
   { "type": "Feature",
-    "geometry": {"type": "Point", "coordinates": [2.3648935,148.8791351]},
+    "geometry": {"type": "Point", "coordinates": [2.3648935,48.8791351]},
     "properties": {"name": "L'École Buissonière", "OpenWifi": "Yes"}
     },
 { "type": "Feature",
