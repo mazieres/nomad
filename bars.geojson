@@ -6,6 +6,19 @@
 	"geometry":
 		{
 		"type": "Point",
+		"coordinates": [2.3899347,48.86868]
+		},
+	"properties": 
+		{
+		"name": "La laverie",
+		"OpenWifi": "No"
+		}
+	},
+	{ 
+	"type": "Feature",
+	"geometry":
+		{
+		"type": "Point",
 		"coordinates": [2.3648935,48.8791351]
 		},
 	"properties": 
